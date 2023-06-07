@@ -1,4 +1,14 @@
-### Hi there 👋
+### I'm Shaun Evening, it's nice to meet you 👋
+
+I'm a seasoned **freelance software developer** and **Storybook maintainer** with a passion for creating engaging developer experiences. As a Developer Experience Engineer at Chromatic, I'm dedicated to improving integrations in the Storybook ecosystem, making it easier for developers to build high-quality UIs with confidence.
+
+In addition to my technical expertise, I'm an advocate for education and empowering developers to reach their full potential. When I'm not coding, you can find me jamming on my bass or spending quality time with my Great Danes, Zola and Noodles.
+
+- 🔭 I’m currently working on zero config for styling tools in Storybook
+- 👯 I’m looking to collaborate on design tokens
+- 💬 Ask me about functional programming, code mods, design tokens, and Storybook
+- 📫 How to reach me: reach out on [twitter](https://twitter.com/Integrayshaun)
+- 😄 Pronouns: He/Him
 
 <!--
 **ShaunLloyd/ShaunLloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
